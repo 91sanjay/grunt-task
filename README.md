@@ -8,6 +8,7 @@ A simple grunt task to assist in web development
 ## Usage
 This grunt task helps me with maintaning development and production code. My folder structure is as follows
 
+``'
 .
 +-- app
 |	+-- sass
@@ -20,6 +21,7 @@ This grunt task helps me with maintaning development and production code. My fol
 |	+-- js
 |	+-- images
 |	+-- index.html
+```
 
 app - Development directory; dist - Distribution(Production code with minfied and optimized assets)
 
